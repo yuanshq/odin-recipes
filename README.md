@@ -1,3 +1,1 @@
-A basic recipe website.
-
-The website will consist of a main index page which will have links to a few recipes.
+A Chinese food recipes website, for The Odin Project excises.
